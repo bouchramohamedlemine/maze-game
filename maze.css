@@ -1,0 +1,11 @@
+#score {
+ -fx-font: bold 20pt "Arial Rounded MT Bold";
+ -fx-text-fill: #000;
+}
+
+#exit {
+ -fx-font: bold 10pt "Arial Rounded MT Bold";
+ -fx-text-fill: #fff;
+ -fx-background-color: #205077;
+}
+ 

@@ -1,0 +1,52 @@
+#title {
+ -fx-font: bold 30pt 'Original Surfer', cursive;
+ -fx-text-fill: #205077 ;
+}
+
+#label1 {
+ -fx-font: bold 30pt "Arial Rounded MT Bold";
+ -fx-text-fill: #000;
+}
+
+#button1 {
+ -fx-font: bold 20pt "Calibri";
+ -fx-text-fill: white;
+ -fx-background-color: #DC7633;
+ -fx-background-radius: 20px;
+ 
+}
+
+#button2 {
+ -fx-font: bold 20pt "Calibri";
+ -fx-text-fill: white;
+ -fx-background-color: #D35400;
+  -fx-background-radius: 20px;
+}
+
+#button3 {
+ -fx-font: bold 20pt "Calibri";
+ -fx-text-fill: white;
+ -fx-background-color: #BA4A00;
+  -fx-background-radius: 20px;
+}
+
+#button4 {
+ -fx-font: bold 20pt "Calibri";
+ -fx-text-fill: white;
+ -fx-background-color: #A04000;
+  -fx-background-radius: 20px;
+}
+
+#button5 {
+ -fx-font: bold 20pt "Calibri";
+ -fx-text-fill: white;
+ -fx-background-color: #873600;
+  -fx-background-radius: 20px;
+}
+
+#button6 {
+ -fx-font: bold 20pt "Calibri";
+ -fx-text-fill: white;
+ -fx-background-color: #6E2C00 ;
+  -fx-background-radius: 20px;
+}

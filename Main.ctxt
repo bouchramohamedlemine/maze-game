@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ \r\n<h2>The\ Main\ class\ \ </h2>\r\n<p>It\ displays\ the\ first\ interface\ that\ the\ users\ will\ see\ and\ from\ which\ they\ can\ choose\ a\ level\ of\ the\ game\ to\ play.</p>\r\n\ \r\n\ @author\ Roger\ Evans\r\n\ @author\ Bouchra\ Mohamed\ Lemine\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=window
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=
+comment3.target=void\ positionButtons()
+comment4.params=
+comment4.target=void\ readUnlockedLevels()
+comment4.text=\r\n\ Load\ all\ the\ names\ of\ the\ levels\ from\ "unlockedLevels.txt",\ and\ add\ them\ to\ the\ {@code\ unlockedLevels}\ arrayList\r\n\ \r\n\ @throws\ IOException\ if\ it\ encounters\ an\ error\ opening\ the\ file\ for\ reading\r\n
+comment5.params=event
+comment5.target=void\ handle(javafx.event.ActionEvent)
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\ \ <h2>\ The\ Controller\ class\ </h2>\r\n\ \ \ <p>\ This\ class\ decides\ what\ should\ happen\ if\ the\ user\ presses\ right,\ left,\ up\ or\ down\ by\ calling\ {@link\ Model\#moveRight},\r\n\ \ \ {@link\ Model\#moveLeft},\ {@link\ Model\#moveUp},\ or\ {@link\ Model\#moveDown},\ respectively.</p>\r\n\ \ \r\n\ \ \ @author\ Roger\ Evans\ \r\n\ \ @author\ Bouchra\ Mohamed\ Lemine\ \r\n
+comment1.params=event
+comment1.target=void\ userKeyInteraction(javafx.scene.input.KeyEvent)
+numComments=2

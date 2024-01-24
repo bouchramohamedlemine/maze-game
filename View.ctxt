@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=View
+comment0.text=\ <h2>\ The\ View\ class\ </h2>\r\n\ \ \ \ <p>the\ view\ class\ displays\ the\ level\ of\ the\ game\ that\ the\ user\r\n\ \ \ \ chooses\ to\ play,\ it\ receives\ data\ about\ the\ game\ objects\ from\ the\ {@link\ Model}\ and\ draws\ them\ on\ a\ canvas\ </p>\r\n\ \ \ \ \r\n\ \ \ \ @author\ Roger\ Evans\r\n@author\ Bouchra\ Mohamed\ Lemine
+comment1.params=level\ gapX\ gapY\ space\ mazeSize
+comment1.target=View(int,\ int,\ int,\ int,\ int)
+comment10.params=e
+comment10.target=void\ handle(javafx.scene.input.KeyEvent)
+comment11.params=
+comment11.target=void\ updateGame()
+comment2.params=window
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=a
+comment3.target=void\ handle(javafx.event.ActionEvent)
+comment4.params=
+comment4.target=void\ drawImage()
+comment5.params=gc\ np
+comment5.target=void\ drawNonPlayer(javafx.scene.canvas.GraphicsContext,\ NonPlayer)
+comment6.params=gc\ player
+comment6.target=void\ drawPlayer(javafx.scene.canvas.GraphicsContext,\ Player)
+comment7.params=gc\ key
+comment7.target=void\ drawKey(javafx.scene.canvas.GraphicsContext,\ GameObject)
+comment8.params=gc\ go
+comment8.target=void\ drawRectangle(javafx.scene.canvas.GraphicsContext,\ GameObject)
+comment9.params=gc\ go
+comment9.target=void\ drawWeapon(javafx.scene.canvas.GraphicsContext,\ GameObject)
+numComments=12
